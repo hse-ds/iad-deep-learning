@@ -9,3 +9,4 @@ torchtext==0.13.1
 torchvision==0.13.1
 transformers==4.22.0
 wandb==0.13.3
+scikit-learn==1.1.2
