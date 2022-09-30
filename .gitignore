@@ -1,0 +1,9 @@
+# notebooks
+.ipynb_checkpoints
+
+# logging
+wandb
+
+# datasets
+mnist
+cifar
