@@ -2,8 +2,10 @@
 .ipynb_checkpoints
 
 # logging
+lightning_logs
 wandb
 
 # datasets
-mnist
+data
 cifar
+mnist
