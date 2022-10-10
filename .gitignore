@@ -6,6 +6,8 @@ lightning_logs
 wandb
 
 # datasets
+*.zip
 data
 cifar
 mnist
+PetImages
