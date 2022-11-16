@@ -1,3 +1,7 @@
+# mac-related
+.DS_Store
+__MACOSX
+
 # notebooks
 .ipynb_checkpoints
 
@@ -7,7 +11,11 @@ wandb
 
 # datasets
 *.zip
+*.txt
 data
 cifar
 mnist
 PetImages
+imagenet-mini
+train
+train_masks
