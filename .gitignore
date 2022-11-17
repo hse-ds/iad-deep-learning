@@ -1,3 +1,6 @@
+# IDE
+.idea
+
 # mac-related
 .DS_Store
 __MACOSX
