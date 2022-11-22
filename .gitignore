@@ -14,10 +14,11 @@ wandb
 
 # datasets
 *.zip
-*.txt
 data
 cifar
 mnist
 PetImages
 imagenet-mini
 CARVANA
+text8
+anna.txt
