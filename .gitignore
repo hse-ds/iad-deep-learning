@@ -11,6 +11,7 @@ __MACOSX
 # logging
 lightning_logs
 wandb
+*.net
 
 # datasets
 *.zip
