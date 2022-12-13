@@ -8,6 +8,9 @@ __MACOSX
 # notebooks
 .ipynb_checkpoints
 
+# python
+__pycache__
+
 # logging
 lightning_logs
 wandb
