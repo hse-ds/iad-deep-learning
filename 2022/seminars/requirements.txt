@@ -15,6 +15,5 @@ torch==1.12.1
 torchmetrics==0.9.3
 torchtext==0.13.1
 torchvision==0.13.1
-transformers==4.15.0
-wandb==0.13.3
-
+transformers==4.22.0
+wandb==0.13.6
