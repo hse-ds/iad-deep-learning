@@ -18,7 +18,7 @@ def preprocess(text):
     # text = text.replace('\n', ' <NEW_LINE> ')
     text = text.replace(':', ' <COLON> ')
     words = text.split()
-    
+
     # Remove all words with  5 or fewer occurences
     word_counts = Counter(words)
     trimmed_words = [word for word in words if word_counts[word] > 5]
@@ -40,4 +40,3 @@ def create_lookup_tables(words):
     vocab_to_int = {word: ii for ii, word in int_to_vocab.items()}
 
     return vocab_to_int, int_to_vocab
-
